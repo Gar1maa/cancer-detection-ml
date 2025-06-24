@@ -1,6 +1,7 @@
 # cancer-detection-ml
 
 **Machine learning project to classify tumors as malignant or benign using Python and Scikit-learn.**
+Model used:- Gaussian Naive Bayes.
 
 This project demonstrates how machine learning techniques can be applied to cancer detection using a structured dataset. It focuses on classifying tumors into benign or malignant categories by analyzing various input features using supervised learning algorithms.
 
